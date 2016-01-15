@@ -8,7 +8,10 @@ http://www.w3.org/TR/2009/WD-websockets-20091222/
 
 ##UsingWebSockets
 
-Basic Client/Server App Using Web Sockets(Low-Level App)
+WebSocketsServer: Basic Client/Server App Using Web Sockets(Low-Level App)
+
+WebSocketsServer2: Basic Chat App(Open Two Browsers Simultaneously)
+
 
 
 	
