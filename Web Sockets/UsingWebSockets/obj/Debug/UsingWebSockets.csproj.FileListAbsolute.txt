@@ -31,3 +31,4 @@ c:\users\shaun\documents\visual studio 2015\Projects\UsingWebSockets\bin\Microso
 c:\users\shaun\documents\visual studio 2015\Projects\UsingWebSockets\obj\Debug\UsingWebSockets.csprojResolveAssemblyReference.cache
 c:\users\shaun\documents\visual studio 2015\Projects\UsingWebSockets\obj\Debug\UsingWebSockets.dll
 c:\users\shaun\documents\visual studio 2015\Projects\UsingWebSockets\obj\Debug\UsingWebSockets.pdb
+C:\Users\Shaun\documents\visual studio 2015\Projects\UsingWebSockets\bin\Microsoft.WebSockets.dll

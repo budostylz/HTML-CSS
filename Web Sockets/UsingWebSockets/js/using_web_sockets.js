@@ -1,7 +1,17 @@
 ﻿var create_socket = function (host) {
-  
-   
 
+   
+   var send_button = $("#send").click(function () {
+       var message = $("#message").val();
+       webSoc.send(message);
+       message = "";
+       
+   });
+
+   var close = $("#close").click(function () {
+       webSoc.close();
+   });
+    
     //create new WebSocket instance
     var webSoc = new WebSocket(host); //wss -> web socket secure
 
@@ -14,24 +24,22 @@
 
     //open connection and send message
     webSoc.onopen = function () {
-        alert("Connection Status: Open");
-        webSoc.send("This is a message from the client");
-        alert("Buffered Amount: " + webSoc.bufferedAmount);
+        //alert("Connection Status: Open");
         
     }
 
     //server response
     webSoc.onmessage = function (e) {
-        alert(e.data.toString());
+        $("#response").append(e.data.toString() + "<br/>");
     }
 
     
     webSoc.onclose = function () {
-        alert("Close Connection");
+        alert("Connection Closed");
     }
 
 
-
+    
    
 
    
@@ -43,23 +51,18 @@
     //webSoc.close(1000, "Connection closed: No errors");
     
     
-}
+}//end create_socket
 
 
 
 var init = function () {
-    var host = "ws://localhost:52263/WebSocketsServer.ashx";
-
-    try{
-        socket = create_socket(host);
-       
-    }
-    catch (e) {
-        console.log(e.name + " : " + e.message);
-    }
-
-
-
+        var host = "ws://localhost:52263/WebSocketsServer2.ashx?chatName=Shaun";
+        try {
+            socket = create_socket(host);
+        }
+        catch (e) {
+            console.log(e.name + " : " + e.message);
+        }
 }//end init 
 
 
@@ -75,17 +78,10 @@ var browser_support = function () {
 }//end browser_report
 
 
-var a = browser_support();
-var b = init();
 
 
 
-/*
-Check if broswer support web socket
-
-
-if (window.WebSocket)
-    alert("WebSocket Status: Supported");
-else
-    alert("WebSocket Status: Not Supported");
-*/
+$(document).ready(function () {
+    //var a = browser_support();
+    var b = init();
+});
