@@ -8,6 +8,10 @@ http://www.w3schools.com/HTML/html5_webworkers.asp
 
 https://en.wikipedia.org/wiki/Web_worker
 
+##WorkMe
+
+Dont't compile, use file names as reference.
+
 
 
 
