@@ -7,3 +7,8 @@ function timedCount() {
 }
 
 timedCount();
+
+//terminate worker 
+function stopWork() {
+    self.close();
+}
