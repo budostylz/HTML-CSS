@@ -1,16 +1,12 @@
-#Getting to Know the Workers
+##W3c HTML5 Reference
 
-##HTML5 Web Workers
+http://dev.w3.org/html5/html-author/#the-html-vocabulary-and-apis
 
-http://www.w3schools.com/HTML/html5_webworkers.asp
 
-##Web worker
+##HTML5
 
-https://en.wikipedia.org/wiki/Web_worker
+https://en.wikipedia.org/wiki/HTML5
 
-##WorkMe
-
-Dont't compile, use file names as reference.
 
 
 
