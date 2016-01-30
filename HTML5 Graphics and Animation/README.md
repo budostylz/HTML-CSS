@@ -1,12 +1,50 @@
-##Rectangle Animation
+##HTML5 Canvas
 
-https://jsfiddle.net/budostylzz/qx7gs6ny/
+http://www.w3schools.com/html/html5_canvas.asp
 
-https://jsfiddle.net/budostylzz/wg4Lf0Lw/
+##HTML5 SVG
 
-##CSS Animation
+http://www.w3schools.com/html/html5_svg.asp
 
-http://www.w3schools.com/cssref/#animation
+##SVG Namespace
+
+https://www.w3.org/2000/svg
+
+
+##Canvas Images
+
+https://jsfiddle.net/budostylzz/x2v197f8/
+
+https://jsfiddle.net/budostylzz/ejocm2rt/
+
+##SVG Images
+
+https://jsfiddle.net/budostylzz/yj3e351b/
+
+https://jsfiddle.net/budostylzz/zur7et7x/
+
+##SVG Gradients - Linear
+
+http://www.w3schools.com/svg/svg_grad_linear.asp
+
+##SVG Gradients - Radial
+
+http://www.w3schools.com/svg/svg_grad_radial.asp
+
+##SVG Reference
+
+http://www.w3schools.com/svg/svg_reference.asp
+
+
+
+
+
+
+
+
+
+
+
 
 
 
