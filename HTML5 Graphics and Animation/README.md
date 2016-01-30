@@ -2,6 +2,12 @@
 
 http://www.w3schools.com/html/html5_canvas.asp
 
+##Canvas Images
+
+https://jsfiddle.net/budostylzz/x2v197f8/
+
+https://jsfiddle.net/budostylzz/ejocm2rt/
+
 ##HTML5 SVG
 
 http://www.w3schools.com/html/html5_svg.asp
@@ -9,13 +15,6 @@ http://www.w3schools.com/html/html5_svg.asp
 ##SVG Namespace
 
 https://www.w3.org/2000/svg
-
-
-##Canvas Images
-
-https://jsfiddle.net/budostylzz/x2v197f8/
-
-https://jsfiddle.net/budostylzz/ejocm2rt/
 
 ##SVG Images
 
