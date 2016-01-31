@@ -1,3 +1,7 @@
+##CSS3 Animations
+
+http://www.w3schools.com/css/css3_animations.asp
+
 ##HTML5 Canvas
 
 http://www.w3schools.com/html/html5_canvas.asp
