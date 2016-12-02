@@ -8,10 +8,6 @@ http://dev.w3.org/html5/html-author/#the-html-vocabulary-and-apis
 https://en.wikipedia.org/wiki/HTML5
 
 
-1. User JSON.stringify before sending object to storage
-2. Use JSON.parse after retrieving object from storage
-
-
 ##JSON.stringify()
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
@@ -29,6 +25,8 @@ https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API
 https://www.nczonline.net/blog/2009/07/21/introduction-to-sessionstorage/
 
 
+1. User JSON.stringify before sending object to storage
+2. Use JSON.parse after retrieving object from storage
 
 	
 	
