@@ -29,7 +29,9 @@ https://www.nczonline.net/blog/2009/07/21/introduction-to-sessionstorage/
 2. Use JSON.parse after retrieving object from storage
 
 	
-	
+##Using the Resource Timing API
+
+https://developer.mozilla.org/en-US/docs/Web/API/Resource_Timing_API/Using_the_Resource_Timing_API
 
 
 
