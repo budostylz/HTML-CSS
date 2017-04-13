@@ -1,44 +1,44 @@
-##HTML Element Reference
+## HTML Element Reference
 
 http://www.w3schools.com/tags/
 	
-##HTML element reference
+## HTML element reference
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
-##W3C HTML5 Reference
+## W3C HTML5 Reference
 
 http://dev.w3.org/html5/html-author/
 
-##HTML and DOM reference
+## HTML and DOM reference
 
 https://msdn.microsoft.com/en-us/library/windows/apps/br212882.aspx
 
-##CSS Reference
+## CSS Reference
 
 http://www.w3schools.com/cssref/default.asp
 
-##CSS reference
+## CSS reference
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 
-##Cascading Style Sheets
+## Cascading Style Sheets
 
 https://msdn.microsoft.com/en-us/library/ms531209(v=vs.85).aspx
 
-##CSS Alphabetical Index
+## CSS Alphabetical Index
 
 https://msdn.microsoft.com/en-us/library/hh869403(v=vs.85).aspx
 
-##Can I Use???
+## Can I Use???
 
 http://caniuse.com/
 
-##DevDocs
+## DevDocs
 
 http://devdocs.io/
 
-##Site Templates
+## Site Templates
 
 http://designscrazed.org/free-responsive-html5-css3-templates/
 
