@@ -20,6 +20,10 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API
 
+## Storage
+
+https://developer.mozilla.org/en-US/docs/Web/API/Storage
+
 ## Introduction to sessionStorage
 
 https://www.nczonline.net/blog/2009/07/21/introduction-to-sessionstorage/
