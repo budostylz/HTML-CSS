@@ -1,26 +1,26 @@
-##W3c HTML5 Reference
+## W3c HTML5 Reference
 
 http://dev.w3.org/html5/html-author/#the-html-vocabulary-and-apis
 
 
-##HTML5
+## HTML5
 
 https://en.wikipedia.org/wiki/HTML5
 
 
-##JSON.stringify()
+## JSON.stringify()
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
 
-##JSON.parse()
+## JSON.parse()
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse
 
-##Web Storage API
+## Web Storage API
 
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API
 
-##Introduction to sessionStorage
+## Introduction to sessionStorage
 
 https://www.nczonline.net/blog/2009/07/21/introduction-to-sessionstorage/
 
@@ -29,7 +29,7 @@ https://www.nczonline.net/blog/2009/07/21/introduction-to-sessionstorage/
 2. Use JSON.parse after retrieving object from storage
 
 	
-##Using the Resource Timing API
+## Using the Resource Timing API
 
 https://developer.mozilla.org/en-US/docs/Web/API/Resource_Timing_API/Using_the_Resource_Timing_API
 
