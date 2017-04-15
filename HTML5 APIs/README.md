@@ -37,5 +37,8 @@ https://www.nczonline.net/blog/2009/07/21/introduction-to-sessionstorage/
 
 https://developer.mozilla.org/en-US/docs/Web/API/Resource_Timing_API/Using_the_Resource_Timing_API
 
+## Permission denied error trying to instantiate web worker object
+
+http://stackoverflow.com/questions/28654203/permission-denied-error-trying-to-instantiate-web-worker-object
 
 
