@@ -56,4 +56,8 @@ http://www.free-css.com/free-css-templates/page211/bazinger
 
 https://jigsaw.w3.org/css-validator/
 
+## HTML Formatter
+
+https://www.freeformatter.com/html-formatter.html#ad-output
+
 
