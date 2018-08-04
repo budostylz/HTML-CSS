@@ -60,4 +60,8 @@ https://jigsaw.w3.org/css-validator/
 
 https://www.freeformatter.com/html-formatter.html#ad-output
 
+## Sass Basics
+
+https://sass-lang.com/guide
+
 
