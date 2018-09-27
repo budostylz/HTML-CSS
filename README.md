@@ -68,4 +68,8 @@ https://sass-lang.com/guide
 
 https://designsystem.digital.gov/components/colors/
 
+## Modifying a query string without reloading the page
+
+https://stackoverflow.com/questions/10970078/modifying-a-query-string-without-reloading-the-page
+
 
