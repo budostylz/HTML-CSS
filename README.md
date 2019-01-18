@@ -72,4 +72,8 @@ https://designsystem.digital.gov/components/colors/
 
 https://stackoverflow.com/questions/10970078/modifying-a-query-string-without-reloading-the-page
 
+## Color Palette Generator
+
+https://www.canva.com/color-palette/
+
 
