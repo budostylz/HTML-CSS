@@ -86,5 +86,8 @@ https://getmdl.io/
 ## Material Design Accordian
 https://codepen.io/shehab-eltawel/pen/dYwOgX
 
+## CSS3 Media Query to target only Internet Explorer (from IE6 to IE11+), Firefox, Chrome, Safari and/or Edge
+https://www.ryadel.com/en/css3-media-query-target-only-ie-ie6-ie11-firefox-chrome-safari-edge/
+
 
 
