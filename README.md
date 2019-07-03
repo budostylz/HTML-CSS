@@ -102,7 +102,7 @@ https://getmdl.io/index.html
 https://material.io/
 
 ## Material Design for Bootstrap
-https://mdbootstrap.com/docs/jquery
+https://mdbootstrap.com
 
 
 
