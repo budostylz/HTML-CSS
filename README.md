@@ -104,5 +104,7 @@ https://material.io/
 ## Material Design for Bootstrap
 https://mdbootstrap.com
 
+## How to Create a Professional Web Layout in Photoshop
+https://www.photoshoptutorials.ws/photoshop-tutorials/layouts/how-to-create-a-professional-web-layout-in-photoshop/
 
 
