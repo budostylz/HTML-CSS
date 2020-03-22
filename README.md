@@ -107,7 +107,6 @@ https://mdbootstrap.com
 ## How to Create a Professional Web Layout in Photoshop
 https://www.photoshoptutorials.ws/photoshop-tutorials/layouts/how-to-create-a-professional-web-layout-in-photoshop/
 
-## CSS3 Media Query to target only Internet Explorer (from IE6 to IE11+), Firefox, Chrome, Safari and/or Edge
-https://www.ryadel.com/en/css3-media-query-target-only-ie-ie6-ie11-firefox-chrome-safari-edge/
+
 
 
