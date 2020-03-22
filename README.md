@@ -89,6 +89,9 @@ https://codepen.io/shehab-eltawel/pen/dYwOgX
 ## CSS3 Media Query to target only Internet Explorer (from IE6 to IE11+), Firefox, Chrome, Safari and/or Edge
 https://www.ryadel.com/en/css3-media-query-target-only-ie-ie6-ie11-firefox-chrome-safari-edge/
 
+## CSS Media Queries for All Devices and Browsers (Including IE7 and IE8)
+https://www.templatemonster.com/blog/css-media-queries-for-all-devices-and-browsers-including-ie7-and-ie8/
+
 ## User-Agent
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent
 
